@@ -4,7 +4,7 @@
 
 ## About
 This is a blockchain based Voting DApp, where each ethereum account can vote for their favourite candidates.
-Each candidate's vote count is stored in the blockchain and user is notified after voting.
+Each candidate's vote count is stored in the blockchain and user is notified after voting. The election results are declared once the voting period ends.
 
 ## Step 1. Configure Metamask
 - Unlock Metamask
